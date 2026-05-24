@@ -1,4 +1,3 @@
-# tn-election-2026-analysis-Codebasics
 # Tamil Nadu Election 2026 — Data Analysis
 ## Codebasics Resume Project Challenge
 
