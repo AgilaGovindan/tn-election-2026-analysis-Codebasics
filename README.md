@@ -1,6 +1,6 @@
 # Tamil Nadu Election 2026 — Data Analysis
 ## Codebasics Resume Project Challenge
-
+Dashboard Link:https://app.fabric.microsoft.com/links/FztyXaYFsv?ctid=56e571dd-f01e-45e5-8664-e519cb842a59&pbi_source=linkShare&bookmarkGuid=9e286029-a235-4bba-b6c2-55c12c0798cb
 ### Project Overview
 Analysis of 2026 Tamil Nadu Assembly Election results for AtliQ Media.
 Story: "TVK Rewrote Tamil Nadu's Political Map in One Election"
